@@ -1,2 +1,2 @@
-# JSON-Datasets
-Json datasets for data analysis and visualization
+# JSON and CSV Datasets
+Json and CSV datasets for data analysis and visualization
